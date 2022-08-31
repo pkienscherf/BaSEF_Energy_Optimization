@@ -24,4 +24,4 @@ docs/site/
 Manifest.toml
 
 # Jupyter checkpoints
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
